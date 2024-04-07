@@ -1,0 +1,5 @@
+<resources>
+    <string name="error">error</string>
+    <string name="retry">Retry</string>
+    <string name="default_empty_message">No data for now, you can try later</string>
+</resources>

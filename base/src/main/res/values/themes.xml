@@ -1,0 +1,6 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="TextStyleMedium" parent="@style/TextAppearance.AppCompat.Medium" />
+
+    <style name="TextAppTitle" parent="@style/TextAppearance.AppCompat.Headline" />
+</resources>
